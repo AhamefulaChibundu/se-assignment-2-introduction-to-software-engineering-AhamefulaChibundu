@@ -7,6 +7,8 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
+Software Engineering can be defined as the design, development, testing and maintenance of software application. It combines different disciplines to achieve or create a reliable and efficient software such as project management,computer science, engineering and programming skills.
+
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
