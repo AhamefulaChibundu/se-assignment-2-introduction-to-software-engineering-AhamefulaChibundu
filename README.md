@@ -29,7 +29,7 @@ Deployment is releasing the application to users. \
 Maintenance involves providing updates and support to the software after deployment 
 
 Agile vs. Waterfall Models:
-Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred? \
+Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred? 
 
 Agile model is a software development methodology that involves going through the software development life cycle in an iterative manner. you could be designing  and before completion of design, you begin implementation but for waterfall meodel, it has to be sequential. one phase needs to be completed before going to the next.
 
