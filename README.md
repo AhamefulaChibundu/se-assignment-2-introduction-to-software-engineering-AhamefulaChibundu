@@ -10,20 +10,20 @@ Define Software Engineering:
 Software Engineering can be defined as the design, development, testing and maintenance of software application. It combines different disciplines to achieve or create a reliable and efficient software such as project management,computer science, engineering and programming skills.
 
 
-What is software engineering, and how does it differ from traditional programming?
-Software engineering emphasizes structured methodologies, comprehensive documentation, and collaboration among specialized roles to manage complex projects and ensure long-term quality and maintainability and this is achieved with the software development life cycle which includes requirements, design, implementatiion, testing, deployment and maintenance.
+What is software engineering, and how does it differ from traditional programming? \
+Software engineering emphasizes structured methodologies, comprehensive documentation, and collaboration among specialized roles to manage complex projects and ensure long-term quality and maintainability and this is achieved with the software development life cycle which includes requirements, design, implementatiion, testing, deployment and maintenance.\
 Traditional programming on the other hand is the process of coding to create software solutions, often with a focus on immediate problem-solving and less emphasis on formal processes and long-term considerations.
 
 
-Software Development Life Cycle (SDLC):
-Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
-The various phases of Software development cycle include requirements, design, implementatiion, testing, deployment and maintenance. 
-Requirements refers to planning and gathering all the user needs and system requirements. 
-Design is simply creating designs of the software architecture. 
-Implementation referes to writing codes and building the software according to the design made. 
-Testing is confirming or verifying that the software meet required standard and user needs. 
-Deployment is releasing the application to users. 
-Maintenance involves providing updates and support to the software after deployment
+Software Development Life Cycle (SDLC): \
+Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase. \
+The various phases of Software development cycle include requirements, design, implementatiion, testing, deployment and maintenance. \
+Requirements refers to planning and gathering all the user needs and system requirements. \
+Design is simply creating designs of the software architecture. \
+Implementation referes to writing codes and building the software according to the design made. \
+Testing is confirming or verifying that the software meet required standard and user needs. \
+Deployment is releasing the application to users. \
+Maintenance involves providing updates and support to the software after deployment \
 
 Agile vs. Waterfall Models:
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
