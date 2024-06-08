@@ -17,13 +17,14 @@ Traditional programming on the other hand is the process of coding to create sof
 
 Software Development Life Cycle (SDLC): \
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase. \
+\
 The various phases of Software development cycle include requirements, design, implementatiion, testing, deployment and maintenance. \
 Requirements refers to planning and gathering all the user needs and system requirements. \
 Design is simply creating designs of the software architecture. \
 Implementation referes to writing codes and building the software according to the design made. \
 Testing is confirming or verifying that the software meet required standard and user needs. \
 Deployment is releasing the application to users. \
-Maintenance involves providing updates and support to the software after deployment \
+Maintenance involves providing updates and support to the software after deployment 
 
 Agile vs. Waterfall Models:
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
