@@ -17,7 +17,7 @@ Traditional programming on the other hand is the process of coding to create sof
 
 Software Development Life Cycle (SDLC): \
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase. \
-\
+
 The various phases of Software development cycle include requirements, design, implementatiion, testing, deployment and maintenance. \
 Requirements refers to planning and gathering all the user needs and system requirements. \
 Design is simply creating designs of the software architecture. \
